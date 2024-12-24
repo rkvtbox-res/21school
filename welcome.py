@@ -4,3 +4,5 @@ print(greetings_text)
 print(user_input)
 
 # Тренировка git
+
+# changed
