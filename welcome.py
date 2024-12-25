@@ -5,6 +5,4 @@ print(user_input)
 
 # Тренировка git
 
-# changed
-
-# добавлены изменения для ветки develop
+# исправление для pull req
